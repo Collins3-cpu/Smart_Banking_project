@@ -14,8 +14,11 @@ Goal: Build predictive models to improve campaign efficiency and customer target
 ## Customer Demographics
 
 Age: Average ~41 years; range 18–95.
+
 Balance: Highly variable (mean ~1,529; some negative balances).
+
 Campaign: Average 2.5 contacts per client.
+
 Duration: Call duration is a strong indicator of subscription likelihood.
 
 ## Data Characteristics
@@ -35,7 +38,7 @@ Hierarchical Clustering on features like age, balance, duration, and campaign.
 PCA projection visualized customer segments (3 clusters identified).
 Potential for customer segmentation to tailor banking offers.
 
-🔍 Analysis Highlights
+## 🔍 Analysis Highlights
 
 Comprehensive EDA: Summary statistics, distributions, and correlations.
 
@@ -45,7 +48,7 @@ Visualization: Histograms, box plots, scatter plots, and cluster projections.
 
 Modeling Readiness: Prepared for classification models (Logistic Regression, Random Forest, etc.).
 
-💡 Recommendations
+## 💡 Recommendations
 
 ## Campaign Optimization:
 Focus calls on customers with longer engagement (high duration).
